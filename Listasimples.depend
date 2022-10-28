@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1661984605 source:c:\users\nico\desktop\nuevos tp\pizzaroncodeblock\listasimples\persona.c
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1661984639 c:\users\nico\desktop\nuevos tp\pizzaroncodeblock\listasimples\persona.h
+
+1662590309 source:c:\users\nico\desktop\nuevos tp\pizzaroncodeblock\listasimples\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1662507700 c:\users\nico\desktop\nuevos tp\pizzaroncodeblock\listasimples\lista.h
+	"persona.h"
+
+1662511043 source:c:\users\nico\desktop\nuevos tp\pizzaroncodeblock\listasimples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
